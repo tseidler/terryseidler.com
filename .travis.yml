@@ -4,7 +4,7 @@ script:
   - hugo
   - python --version
   - sudo pip install s3cmd
-  - s3cmd sync --delete-removed --no-mime-magic -P -M -r public/ s3://terryseidler.com/
+  - s3cmd sync --delete-removed --no-mime-magic --cf-invalidate -P -M -r public/ s3://terryseidler.com/
   # - s3cmd --recursive modify --add-header='content-type':'text/css' --exclude '' --include '.css' s3://terryseidler.com/
 notifications:
     email:
