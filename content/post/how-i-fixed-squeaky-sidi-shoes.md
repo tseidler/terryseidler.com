@@ -3,6 +3,7 @@ showonlyimage = true
 draft = false
 image = "/img/post_sidi_noise.jpg"
 date = "2017-08-27T22:39:22+02:00"
+publishdate = "2017-08-27T22:39:22+02:00"
 title = "Squeaky Sidi Ergo 4 - fixed!"
 weight = 0
 +++
