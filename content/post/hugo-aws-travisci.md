@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/post_travis_aws.jpg"
-date = "2017-08-22T09:00:22+05:30"
+date = "2017-08-22T20:02:19+02:00"
 title = "Hugo, Travis CI & AWS"
 weight = 0
 +++
