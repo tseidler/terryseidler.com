@@ -2,6 +2,7 @@ baseURL = "https://terryseidler.com/"
 languageCode = "en-us"
 title = "Terry Seidler"
 theme = "hugo-tracks-theme"
+googleAnalytics = "UA-93261351-1"
 
 [params]
   # Use custom.css for your custom styling
